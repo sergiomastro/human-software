@@ -13,3 +13,12 @@ Author: sergiomastro
 7. repeat the process on your upper teeth
 8. rinse your mouth
 9. wash the toothbrush
+
+
+## Leaving the bathroom
+
+1. close the faucet 
+2. dry your hands with the towel
+3. turn off the light
+4. leave the bathroom
+5. close the door
